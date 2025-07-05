@@ -1,1 +1,1 @@
-# Health-ai
+# Health AI
